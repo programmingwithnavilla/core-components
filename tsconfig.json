@@ -1,6 +1,10 @@
 {
   "files": [],
-  "references": [{ "path": "packages/input" }, { "path": "ui-core" }],
+  "references": [
+    { "path": "packages/input" },
+    { "path": "packages/button" },
+    { "path": "ui-core" }
+  ],
   "compilerOptions": {
     "target": "ES2017",
     "module": "ESNext",
