@@ -1,0 +1,8 @@
+{
+  "files": [],
+  "references": [
+    { "path": "packages/input" },
+    { "path": "packages/button" },
+    { "path": "ui-core" }
+  ]
+}
