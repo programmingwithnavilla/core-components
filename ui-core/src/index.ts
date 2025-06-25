@@ -1,2 +1,2 @@
 export * from "@uikit/input";
-export * from "@uikit/button";
+// export * from "@uikit/button";
